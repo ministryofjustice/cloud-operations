@@ -1,5 +1,5 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://ministryofjustice.github.io/cloud-operations
+host: https://cloud-operations.service.justice.gov.uk
 
 # Header-related options
 
@@ -11,7 +11,7 @@ phase: Alpha
 
 # Links to show on right-hand-side of header
 header_links:
-  Home: https://ministryofjustice.github.io/cloud-operations
+  Home: https://cloud-operations.service.justice.gov.uk
   GitHub: https://github.com/ministryofjustice/cloud-operations
   Slack: https://mojdt.slack.com/archives/C026AFE617T
 
